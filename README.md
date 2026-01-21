@@ -4,8 +4,6 @@ An end-to-end data analytics project that transforms raw customer data into mean
 
 🔗 **LinkedIn:** [Aamir Ahamed](https://www.linkedin.com/in/aamir-ahamed1910)  
 
-📷 **Dashboard Preview:**  
-![Power BI Dashboard]()
 
 ---
 
@@ -46,6 +44,9 @@ This project reflects real-world data analyst responsibilities and is designed t
 7. Present insights  
 
 ---
+
+📷 **Dashboard Preview:**  
+![Power BI Dashboard](assets/power-bi-dashboard.png)
 
 ## Dashboard Highlights 📊  
 - **3.9K Total Customers** – Overall customer base overview  
