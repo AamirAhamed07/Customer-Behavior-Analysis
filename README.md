@@ -46,7 +46,7 @@ This project reflects real-world data analyst responsibilities and is designed t
 ---
 
 📷 **Dashboard Preview:**  
-![Power BI Dashboard](assets/power-bi-dashboard.png)
+![Power BI Dashboard](power%20BI%20Dashboard.png)
 
 ## Dashboard Highlights 📊  
 - **3.9K Total Customers** – Overall customer base overview  
